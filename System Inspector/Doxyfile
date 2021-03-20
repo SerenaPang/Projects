@@ -1,0 +1,22 @@
+PROJECT_NAME           = "System Inspector"
+
+DOXYFILE_ENCODING      = UTF-8
+ALLOW_UNICODE_NAMES    = NO
+
+OUTPUT_DIRECTORY       = "docs"
+OUTPUT_LANGUAGE        = English
+OUTPUT_TEXT_DIRECTION  = None
+
+INPUT = README.md
+INPUT += .
+USE_MDFILE_AS_MAINPAGE = README.md
+FILE_PATTERNS          = *.c \
+                         *.h
+
+# With the PROJECT_LOGO tag one can specify a logo or an icon that is included
+# in the documentation. The maximum height of the logo should not exceed 55 px.
+PROJECT_LOGO           =
+
+OPTIMIZE_OUTPUT_FOR_C  = YES
+MARKDOWN_SUPPORT       = YES
+GENERATE_XML           = YES
