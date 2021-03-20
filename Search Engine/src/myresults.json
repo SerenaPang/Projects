@@ -1,0 +1,19 @@
+{
+	"ant perf": [
+	],
+	"capybara hidden": [
+	],
+	"cardin": [
+	],
+	"four six": [
+	],
+	"hello world": [
+		{
+			"where": "/Users/Serena/git/project-tests/text/simple/hello.txt",
+			"count": 6,
+			"score": 1.000000
+		}
+	],
+	"lori": [
+	]
+}

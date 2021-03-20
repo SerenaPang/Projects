@@ -1,0 +1,50 @@
+{
+	"observ": {
+		"/Users/Serena/git/project-tests/text/simple/words.tExT": [
+			2,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13
+		]
+	},
+	"observa": {
+		"/Users/Serena/git/project-tests/text/simple/words.tExT": [
+			1
+		]
+	},
+	"observacion": {
+		"/Users/Serena/git/project-tests/text/simple/words.tExT": [
+			3
+		]
+	},
+	"perfor": {
+		"/Users/Serena/git/project-tests/text/simple/words.tExT": [
+			14,
+			15
+		]
+	},
+	"perforc": {
+		"/Users/Serena/git/project-tests/text/simple/words.tExT": [
+			16
+		]
+	},
+	"perform": {
+		"/Users/Serena/git/project-tests/text/simple/words.tExT": [
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24
+		]
+	}
+}
