@@ -1,4 +1,4 @@
-# Project 1: System Inspector
+# Project: System Inspector
 
 See: https://www.cs.usfca.edu/~mmalensek/cs326/assignments/project-1.html 
 
