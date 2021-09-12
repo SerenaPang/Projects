@@ -19,6 +19,13 @@ public class OrderItem implements Serializable {
 
     private double price;
 
+    @ManyToOne
+    private MenuItem menuItem;
+
+    @ManyToOne
+    @JsonIgnore
+    private Cart cart;
+
     public int getId() {
         return id;
     }
@@ -41,5 +48,21 @@ public class OrderItem implements Serializable {
 
     public void setPrice(double price) {
         this.price = price;
+    }
+
+    public MenuItem getMenuItem() {
+        return menuItem;
+    }
+
+    public void setMenuItem(MenuItem menuItem) {
+        this.menuItem = menuItem;
+    }
+
+    public Cart getCart() {
+        return cart;
+    }
+
+    public void setCart(Cart cart) {
+        this.cart = cart;
     }
 }
